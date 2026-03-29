@@ -411,7 +411,6 @@ with tab3:
                                 st.markdown(f"- [{item['title'][:40]}...]({item['url']})")
                             st.divider()
                         st.markdown("**🚀 Direct Launchpads:**")
-                        st.markdown(f"<a class='launchpad-link' href='https://www.tiktok.com/search?q={safe_query}' target='_blank'>📱 TikTok</a>", unsafe_allow_html=True)
                         st.markdown(f"<a class='launchpad-link' href='https://www.reddit.com/search/?q={safe_query}' target='_blank'>👽 Reddit</a>", unsafe_allow_html=True)
                         st.markdown(f"<a class='launchpad-link' href='https://twitter.com/search?q={safe_query}' target='_blank'>🐦 X (Twitter)</a>", unsafe_allow_html=True)
                         st.markdown(f"<a class='launchpad-link' href='https://www.quora.com/search?q={safe_query}' target='_blank'>❓ Quora</a>", unsafe_allow_html=True)
