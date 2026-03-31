@@ -1,6 +1,6 @@
 # 🚀 YouTube Creator OS (YCIS)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtube-creator-os.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtube-creator-os-c23.streamlit.app)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Groq Powered](https://img.shields.io/badge/AI-Groq%20Llama%203.1-orange.svg)](https://groq.com/)
 
